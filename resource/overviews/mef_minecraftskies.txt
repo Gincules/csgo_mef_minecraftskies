@@ -1,0 +1,9 @@
+//Overview: scale 1.00, pos_x -366, pos_y 491
+
+"mef_minecraftskies"
+{
+"material" "overviews/mef_minecraftskies"
+"pos_x" "-366"
+"pos_y" "491"
+"scale" "1.00"
+}
